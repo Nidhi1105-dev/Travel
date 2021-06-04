@@ -46,7 +46,7 @@ nav ul li a:hover{
 .slider{
     width: 100%;
     height: 630px;
-    background-image: url(/blob/main/image/banner1.jpg);
+    background-image: url(../blob/main/image/banner1.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
